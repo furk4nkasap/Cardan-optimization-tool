@@ -1,1 +1,1 @@
-# Cardan-optimization-tool
+# Cardan-joint-optimization-tool
